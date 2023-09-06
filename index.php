@@ -85,7 +85,7 @@
                             <div class="icon">
                                 <img src="<?php echo $base_url; ?>/img/Asset 4.png" alt="" class="img-responsive">
                             </div>
-                            <h4>Air Conditioning<span class="material-symbols-outlined arrow-icon-blue-box">
+                            <h4>Air Duct Cleaning<span class="material-symbols-outlined arrow-icon-blue-box">
                                     arrow_right
                                 </span></h4>
                             <p> </p>
@@ -99,7 +99,7 @@
                             <div class="icon">
                                 <img src="<?php echo $base_url; ?>/img/heating.png" alt="" class="img-responsive">
                             </div>
-                            <h4>Heating<span class="material-symbols-outlined arrow-icon-blue-box">
+                            <h4>Dryer Vent Cleaning<span class="material-symbols-outlined arrow-icon-blue-box">
                                     arrow_right
                                 </span></h4>
                             <p> </p>
@@ -315,8 +315,8 @@
 
             <div class="container">
 
-                <h2 style="color: white;">Please call us at <a href="tel:+18887975225"
-                        style="color: #3f3f3f;">1-888-797-JACK</a>
+                <h2 style="color: white;">Please call us at <a href="tel:18883043828"
+                        style="color: #3f3f3f;">1-888-304-3828</a>
                     To Make an Appointment.</h2>
 
             </div>

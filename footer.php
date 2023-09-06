@@ -55,12 +55,16 @@
             </div>
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
-                <p><strong>LAPEER OFFICE</strong> <br>
-                    Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
-                    (810) 664-8451</p>
-                <p><strong>CARO OFFICE</strong> <br>
-                    Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
-                    (989) 672-8451</p>
+                <p>51620 Milano Dr Ste B <br>
+                    Macomb, MI 48042</p>
+                <p><strong>Local:</strong>(586) 416-1900</p>
+                <p><strong>Toll Free:</strong>(888) 304-3828</p>
+                <p><strong>Fax:</strong>(586) 797-9759</p>
+                <p><a href="mailto:sales@advancedaircareservices.com">sales@advancedaircareservices.com</a></p>
+
+
+
+
                 <p><a href="<?php echo $base_url ?>/privacy.php">Terms of Service and Privacy Policy</a></p>
                 <p><a href="https://www.facebook.com/888797jack/" class="facebook-icon current">facebook </a></p>
 
