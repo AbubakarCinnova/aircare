@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<title>Advanced AirCare | Air Duct Cleaning</title>
+<title>Air Duct Cleaning Company in Michigan | Advanced Air Care</title>
 <?php include('menu.php'); ?>
 
 </head>
