@@ -9,25 +9,10 @@
     <main>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="7500">
             <div class="carousel-inner" role="listbox">
-                <!--  <div class="item active">
-                    <a href="<?php echo $base_url ?>/contact-us.php"><img
-                            src="<?php echo $base_url; ?>/img/tax credit geothermal copy-1jacks_gray (1).png"
-                            alt="first slide" width="100%"></a>
-                </div>
-                <div class="item">
-                    <a href="<?php echo $base_url ?>/heat-pumps.php"> <img
-                            src="<?php echo $base_url; ?>/img/Hybrid Heat (3).png" alt="second slide" width="100%">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/jacks wedoitall-1 (1) (2) (1).png" alt="third slide"
-                            width="100%">
-                    </a>
-                </div> -->
+
                 <div class="item active">
-                    <a href="<?php echo $base_url ?>/generators.php"> <img
-                            src="<?php echo $base_url; ?>/img/jaks_gen_1000X350 (3).png" alt="fourth slide"
+                    <a href="<?php echo $base_url ?>/contact-us.php"> <img
+                            src="<?php echo $base_url; ?>/img/banner-dryer-vent-cleaning.jpg" alt="first slide"
                             width="100%">
                     </a>
                 </div>

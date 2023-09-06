@@ -81,7 +81,7 @@
         <div class="container">
 
             <div class="text-center col-xs-12 footer-item copyrights text-muted">
-                <p>All Rights Reserved. Copyright Advanced Air Care</p>
+                <p>All Rights Reserved. Copyright Advanced Air Care, Inc.</p>
             </div>
 
         </div>
