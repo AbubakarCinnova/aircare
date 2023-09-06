@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<title>Furnace, Air Conditioning|Home Generator | Jack's Heating and Cooling | Lapeer, Caro, Michigan</title>
+<title>Advanced AirCare | Air Duct Cleaning</title>
 <?php include('menu.php'); ?>
 
 </head>
@@ -9,7 +9,7 @@
     <main>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="7500">
             <div class="carousel-inner" role="listbox">
-               <!--  <div class="item active">
+                <!--  <div class="item active">
                     <a href="<?php echo $base_url ?>/contact-us.php"><img
                             src="<?php echo $base_url; ?>/img/tax credit geothermal copy-1jacks_gray (1).png"
                             alt="first slide" width="100%"></a>
