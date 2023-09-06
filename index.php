@@ -79,7 +79,7 @@
         <div class="container mb-lg mt-lg">
             <div class="row bubble-section">
 
-                <div class="col-lg-2 col-sm-4">
+                <div class="col-lg-2 col-sm-6">
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/cooling.php">
                             <div class="icon">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-sm-4">
+                <div class="col-lg-2 col-sm-6">
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/heating.php">
                             <div class="icon">
