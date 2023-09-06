@@ -106,6 +106,7 @@
                         </a>
                     </div>
                 </div>
+                <!-- 
                 <div class="col-lg-2 col-sm-4">
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url ?>/geothermal.php">
@@ -120,6 +121,7 @@
                         </a>
                     </div>
                 </div>
+
                 <div class="col-lg-2 col-sm-4">
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/mini-splits.php">
@@ -134,6 +136,7 @@
                         </a>
                     </div>
                 </div>
+
                 <div class="col-lg-2 col-sm-4">
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/financing.php">
@@ -146,7 +149,7 @@
                             <p> </p>
                         </a>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>
