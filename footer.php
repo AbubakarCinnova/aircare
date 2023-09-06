@@ -55,7 +55,7 @@
             </div>
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
-                <p>51620 Milano Dr Ste B <br>
+                <p><strong>Address:</strong>51620 Milano Dr Ste B <br>
                     Macomb, MI 48042</p>
                 <p><strong>Local:</strong>(586) 416-1900</p>
                 <p><strong>Toll Free:</strong>(888) 304-3828</p>
@@ -66,7 +66,8 @@
 
 
                 <p><a href="<?php echo $base_url ?>/privacy.php">Terms of Service and Privacy Policy</a></p>
-                <p><a href="https://www.facebook.com/888797jack/" class="facebook-icon current">facebook </a></p>
+                <p><a href="https://www.facebook.com/Advanced-Air-Care-128298120542928/"
+                        class="facebook-icon current">facebook </a></p>
 
             </div>
 
