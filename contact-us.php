@@ -270,7 +270,7 @@
         </div>
         <div class="col-md-6">
             <br><br>
-            <p><img src="<?php echo $base_url ?>/img/jacks.jpeg" style="width:75%"></p>
+            <p><img src="<?php echo $base_url ?>/img/advanced-air-care-team.jpg" style=""></p>
         </div>
         <div class="col-sm-8 col-xs-12 margin-bottom-sm">
             <br>
