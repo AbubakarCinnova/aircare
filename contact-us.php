@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<title>Jack's Heating and Cooling | Contact Us</title>
+<title>Advanced Air Care | Contact Us</title>
 
 </head>
 <?php include('menu.php'); ?>
@@ -261,13 +261,12 @@
     <div class="margin-bottom-lg margin-top-lg clearfix" style="padding-top:20px; padding-bottom:20px;">
         <div class="col-md-6">
             <h1>Contact Us</h1>
-            <p> <strong>CARO OFFICE</strong> <br>
-                Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
-                <a href="tel:+19896728451">(989) 672-8451</a> <br> <br>
-                <strong>LAPEER OFFICE</strong> <br>
-                Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
-                <a href="tel:+18106648451">(810) 664-8451</a>
-            </p>
+            <p><strong>Address:</strong>51620 Milano Dr Ste B <br>
+                Macomb, MI 48042</p>
+            <p><strong>Local:</strong><a href="tel:+15864161900">(586) 416-1900</a></p>
+            <p><strong>Toll Free:</strong><a href="tel:+18883043828">(888) 304-3828</a></p>
+            <p><strong>Fax:</strong>(586) 797-9759</p>
+            <p><a href="mailto:sales@advancedaircareservices.com">sales@advancedaircareservices.com</a></p>
         </div>
         <div class="col-md-6">
             <br><br>
