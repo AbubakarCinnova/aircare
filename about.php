@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>Jacks Heating and Cooling | About Us</title>
+<title>Advance AirCare | About Us</title>
 
 <?php include_once('menu.php') ?>
 </head>
@@ -17,51 +17,51 @@
 
 
 
+                                <h1>About Advanced Air Care - Your Trusted Air Duct Cleaning Experts in Michigan,
+                                    Including Dryer Vent Cleaning</h1>
+                                <p>Are you in search of the foremost authorities in air duct cleaning services for
+                                    Detroit, Michigan, and its surrounding areas? We proudly serve the following
+                                    Michigan counties: Macomb County, St. Clair County, Lapeer County, Oakland County,
+                                    Wayne County, and Livingston County.</p>
+                                <p>Look no further than Advanced Air Care, your top-tier selection for fostering
+                                    cleaner, healthier indoor environments. As a licensed and insured business with a
+                                    specialization in air duct cleaning, we have a rich history of revitalizing homes
+                                    and businesses throughout Michigan, spanning 20 years.</p>
 
-                                <h2>Caleb Hill and Tim Hill Owners of Jack's Heating and Cooling</h2>
+                                <h2>Our Commitment to Excellence</h2>
+                                <p>At Advanced Air Care, we understand that indoor air quality is paramount to your
+                                    family's and employees' health. That's why we go above and beyond to deliver
+                                    top-tier services that make a difference. Here's why we stand out:</p>
+                                <ul>
+                                    <li><strong>Licensed and Insured:</strong> We are a fully licensed and insured air
+                                        duct cleaning business operating in compliance with the regulations of the State
+                                        of Michigan. Your peace of mind is our priority.</li>
+                                    <li><strong>Certified Technicians:</strong> Our team comprises certified technicians
+                                        who are extensively trained in the latest air duct cleaning techniques. We bring
+                                        a wealth of expertise to every project, ensuring exceptional results.</li>
+                                    <li><strong>State-of-the-Art Equipment:</strong> We employ cutting-edge technology,
+                                        including our powerful PowerVac Truck, to provide a comprehensive and thorough
+                                        cleaning of your air ducts and dryer vents.</li>
+                                    <li><strong>Tailored Solutions:</strong> We understand that each space is unique.
+                                        That's why we offer customized solutions to meet your specific needs, whether
+                                        it's residential, commercial, or industrial duct cleaning.</li>
+                                    <li><strong>Healthier Indoor Air:</strong> Our mission is to help you achieve
+                                        healthier indoor air quality. We eliminate dust, allergens, mold, and
+                                        contaminants, allowing you to breathe easier and live healthier.</li>
+                                    <li><strong>Timely and Efficient:</strong> We value your time, which is why we
+                                        strive for efficient service delivery, ensuring minimal disruption to your daily
+                                        routine.</li>
+                                    <li><strong>Customer Satisfaction:</strong> Your satisfaction is our ultimate goal.
+                                        We're dedicated to exceeding your expectations and providing a cleaner, safer
+                                        environment for you, your family, or your business.</li>
+                                </ul>
+                                <br>
 
-                                <img src="<?php echo $base_url ?>/img/jacks about (1).jpeg" alt="Financing"
-                                    style="float: right;width: 45%; padding:5px 15px;">
-
-                                <p>Welcome to Jack’s Heating and Cooling, where our focus, since 1947, has been on
-                                    providing exceptional heating, ventilation, and air-conditioning solutions tailored
-                                    to
-                                    meet your needs. We specialize in creating custom comfort systems for both new and
-                                    existing homes, as well as commercial properties, ensuring optimal performance and
-                                    ultimate satisfaction.</p>
-
-                                <p>At Jack’s Heating and Cooling, we understand the importance of a hassle-free and
-                                    enjoyable customer experience. That's why our entire team is dedicated to delivering
-                                    outstanding service from start to finish, whether it's for residential or commercial
-                                    HVAC projects. If we ever fall short, we are committed to making it right and
-                                    exceeding
-                                    your expectations.</p>
-
-                                <p>Our team consists of highly trained professionals who have met our rigorous standards
-                                    of
-                                    excellence. When you choose us, you can trust that our technicians will arrive at
-                                    your
-                                    location, whether residential or commercial, with well-stocked trucks. We take pride
-                                    in
-                                    respecting the cleanliness of your property by utilizing drop cloths and booties to
-                                    ensure that no mess is left behind. Rest assured that when we complete our work, we
-                                    will
-                                    leave your property in pristine condition.</p>
-
-                                <p>At Jack’s Heating and Cooling, we believe in going above and beyond to provide a
-                                    unique
-                                    and compelling experience for our valued customers. From our meticulous attention to
-                                    detail to our commitment to customer satisfaction, we strive to set ourselves apart
-                                    as
-                                    the premier choice for all your heating, ventilation, and air-conditioning needs.
-                                </p>
-
-                                <p>Contact us today to discover Jack’s Heating and Cooling differences. Let us create
-                                    the
-                                    perfect comfort system for your home or commercial property, designed to meet your
-                                    unique requirements and deliver unparalleled performance. Experience the excellence
-                                    and
-                                    dedication that have made us a trusted name in the industry since 1947.</p>
+                                <h2>Get in Touch Today</h2>
+                                <p>Elevate your indoor air quality with Advanced Air Care, your trusted partner for air
+                                    duct cleaning and dryer vents in Michigan. Contact us today for a free consultation,
+                                    and take the first step toward breathing fresh, clean air tomorrow. Choose Advanced
+                                    Air Care – where cleaner ducts mean a healthier life!</p>
 
 
 
