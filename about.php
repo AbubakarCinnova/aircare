@@ -16,9 +16,9 @@
                             <div class="col-sm-12">
 
 
-
-                                <h1>About Advanced Air Care - Your Trusted Air Duct Cleaning Experts in Michigan,
-                                    Including Dryer Vent Cleaning</h1>
+                                <h1>About</h1>
+                                <h2>About Advanced Air Care - Your Trusted Air Duct Cleaning Experts in Michigan,
+                                    Including Dryer Vent Cleaning</h2>
                                 <p>Are you in search of the foremost authorities in air duct cleaning services for
                                     Detroit, Michigan, and its surrounding areas? We proudly serve the following
                                     Michigan counties: Macomb County, St. Clair County, Lapeer County, Oakland County,
