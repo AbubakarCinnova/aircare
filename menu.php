@@ -69,75 +69,72 @@
                     <li><a href="<?php echo $base_url ?>/about.php">About<span
                                 class="material-symbols-outlined arrow-dropdown">
                                 arrow_drop_down
-                            </span></a>
-                        <ul class="dropdown-menu">
+                            </span></a></li>
+                    <!--  <ul class="dropdown-menu">
                             <li><a href="<?php echo $base_url ?>/testimonials.php">Testimonials</a></li>
 
                     </li>
-                </ul>
+                </ul> -->
 
-                <li><a href="<?php echo $base_url ?>/heating.php">Heating<span
-                            class="material-symbols-outlined arrow-dropdown">
-                            arrow_drop_down
-                        </span></a>
+                    <!--   <li><a href="<?php echo $base_url ?>/heating.php">Heating<span
+                                class="material-symbols-outlined arrow-dropdown">
+                                arrow_drop_down
+                            </span></a>
 
-                    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/furnaces.php"> Gas Furnaces</a></li>
-                        <li><a href="<?php echo $base_url ?>/boilers.php">Gas Boilers </a></li>
-                        <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
-                        <li><a href="<?php echo $base_url ?>/oil-furnaces.php">Oil Furnaces</a></li>
-                        <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
-                        <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?php echo $base_url ?>/furnaces.php"> Gas Furnaces</a></li>
+                            <li><a href="<?php echo $base_url ?>/boilers.php">Gas Boilers </a></li>
+                            <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
+                            <li><a href="<?php echo $base_url ?>/oil-furnaces.php">Oil Furnaces</a></li>
+                            <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
+                            <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
 
-                    </ul>
-                </li>
+                        </ul>
+                    </li> -->
 
-                <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling<span
-                            class="material-symbols-outlined arrow-dropdown">
-                            arrow_drop_down
-                        </span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/air-conditioners.php">AC</a></li>
-                        <li><a href="<?php echo $base_url ?>/mini-splits.php">Mini Split</a></li>
-                        <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
-                        <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
-                    </ul>
+                    <!--    <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling<span
+                                class="material-symbols-outlined arrow-dropdown">
+                                arrow_drop_down
+                            </span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?php echo $base_url ?>/air-conditioners.php">AC</a></li>
+                            <li><a href="<?php echo $base_url ?>/mini-splits.php">Mini Split</a></li>
+                            <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
+                            <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
+                        </ul>
 
-                <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
-                <li><a class="dropdown-toggle">Services<span class="material-symbols-outlined arrow-dropdown">
-                            arrow_drop_down
-                        </span></a>
-                    <ul class="dropdown-menu">
+                    <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li> -->
+                    <li><a class="dropdown-toggle">Services<span class="material-symbols-outlined arrow-dropdown">
+                                arrow_drop_down
+                            </span></a>
+                        <ul class="dropdown-menu">
 
-                        <li><a href="<?php echo $base_url ?>/tin-man-club.php">Annual Tin Man Service Club</a></li>
-                        <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
-                    </ul>
-                </li>
+                            <li><a href="<?php echo $base_url ?>/tin-man-club.php">Annual Tin Man Service Club</a></li>
+                            <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
+                        </ul>
+                    </li>
 
-                <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
+                    <!--     <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
 
-                <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
-                    <!--    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning</a></li>
-                    </ul> -->
-                </li>
+                    <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
+                      
+                    </li> -->
 
 
 
-                <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
+                    <!--     <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
 
-                </li>
+                    </li> -->
 
-                <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
+                    <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li>
 
-                <li><a href="<?php echo $base_url ?>/contact-us.php">Contact</a>
+                    <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
 
-                    <!--     <ul class="dropdown-menu">
+                    <li><a href="<?php echo $base_url ?>/learn-more.php">Learn More</a></li>
 
-            <li><a href="<?php echo $base_url ?>/request-estimate.php">Request Estimate</a></li>
-            <li><a href="<?php echo $base_url ?>/request-service.php">Request Service</a></li>
-          </ul> -->
-                </li>
+                    <li><a href="<?php echo $base_url ?>/contact-us.php">Contact</a>
+
+                    </li>
                 </ul>
 
             </div>
