@@ -16,14 +16,15 @@
                             <div class="col-sm-12">
 
                                 <img src="<?php echo $base_url ?>/img/powerVac Truck.jpg" alt="pic power vac truck"
-                                    class="img-responsive">
+                                    style="width:100%;">
 
                                 <br><br>
 
-                                <h1>Advanced Air Care Harnesses the Formidable PowerVac Truck</h1>
-                                <p>Advanced Air Care harnesses the formidable PowerVac truck-mounted duct cleaning
-                                    system, able to conquer any duct cleaning challenges in residential, commercial, and
-                                    industrial environments with ease!</p>
+                                <p><strong>Advanced Air Care harnesses the formidable PowerVac truck-mounted duct
+                                        cleaning
+                                        system, able to conquer any duct cleaning challenges in residential, commercial,
+                                        and
+                                        industrial environments with ease!</strong></p>
 
                                 <h2>Ensuring Clean and Healthy Indoor Air: Your Trusted Partner with the PowerVac Vacuum
                                     Truck, Advanced Air Care</h2>
@@ -34,8 +35,8 @@
                                     to promoting clean and healthful air for both residential and commercial settings.
                                 </p>
 
-                                <h2>Discover the Unbeatable Benefits of Our PowerVac Truck for Duct Cleaning and Dryer
-                                    Vent Cleaning</h2>
+                                <h2>Discover the unbeatable benefits of our PowerVac truck for duct cleaning and dryer
+                                    vent cleaning that set us apart:</h2>
                                 <ul>
                                     <li><strong>Superior Suction Power:</strong> Our PowerVac truck boasts
                                         industrial-grade vacuum systems that deliver unmatched suction power. Say
@@ -71,11 +72,14 @@
                                 </ul>
                                 <br>
 
-                                <p>Don't settle for less when it comes to air quality. Enhance your home or business
-                                    with Advanced Air Care's air duct and dryer vent cleaning services using our
-                                    state-of-the-art PowerVac Truck. Reach out to us for a complimentary consultation
-                                    today, and experience the promise of fresher living tomorrow. Purified Ducts, Clear
-                                    Vents, a Healthier Life!</p>
+                                <p><strong>Don't settle for less when it comes to air quality. Enhance your home or
+                                        business
+                                        with Advanced Air Care's air duct and dryer vent cleaning services using our
+                                        state-of-the-art PowerVac Truck. Reach out to us for a complimentary
+                                        consultation
+                                        today, and experience the promise of fresher living tomorrow. Purified Ducts,
+                                        Clear
+                                        Vents, a Healthier Life!</strong></p>
 
 
                                 <br>
