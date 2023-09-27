@@ -8,17 +8,20 @@
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/aacs-logo.png" width="220" /></a> </div>
 
-            <div class="col-md-4 ">
-                <h3>Call for Appointment</h3>
-                <a href="tel:18883043828" style="color:black;">
-                    <h2>1-888-304-3828</h2>
-                </a>
+            <div class="col-md-3 ">
+                <div>
+                    <h3 style="font-weight:600;">Call for Appointment</h3>
+                    <a href="tel:18883043828" style="color:black;">
+                        <h2>1-888-304-3828</h2>
+                    </a>
+                </div>
+
             </div>
 
-            <div class="col-md-4 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
-                        src="<?php echo $base_url ?>/img/aacs-logo.png" width="280" /></a> </div>
+            <div class="col-md-6 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
+                        src="<?php echo $base_url ?>/img/aacs-logo.png" width="230" /></a> </div>
 
-            <div class="col-md-4  header-btn-wrap">
+            <div class="col-md-3  header-btn-wrap">
                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning"
                     style="margin-top:18px;">Request Service</a>
             </div>
