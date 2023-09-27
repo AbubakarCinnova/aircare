@@ -3186,7 +3186,11 @@ strong {
     width: 210px;
   }
 }
-
+@media (max-width: 768px) {
+  .header-phone {
+    margin: 0 auto;
+  }
+}
 .arrow-icon-blue-box {
   font-size: 32px;
   width: 0px;
