@@ -11,9 +11,12 @@
             <div class="col-md-3 ">
                 <div>
                     <h3 style="font-weight:600;">Call for Appointment</h3>
-                    <a href="tel:18883043828" style="color:black;">
-                        <h2>1-888-304-3828</h2>
-                    </a>
+                    <div style="width:210px;">
+                        <a href="tel:18883043828" style="color:black;">
+                            <h2>1-888-304-3828</h2>
+                        </a>
+                    </div>
+
                 </div>
 
             </div>
