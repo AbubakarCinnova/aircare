@@ -3182,6 +3182,9 @@ strong {
   .img-about {
     width: 37% !important;
   }
+  .header-phone {
+    width: 210px;
+  }
 }
 
 .arrow-icon-blue-box {
