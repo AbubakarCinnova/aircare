@@ -72,10 +72,12 @@
 
                     <li><a href="<?php echo $base_url ?>/"><img src="<?php echo $base_url ?>/img/home_1.png"></a></li>
 
-                    <li><a href="<?php echo $base_url ?>/about.php">About<span
+                    <li><a href="<?php echo $base_url ?>/about.php">About
+                            <!-- <span
                                 class="material-symbols-outlined arrow-dropdown">
                                 arrow_drop_down
-                            </span></a></li>
+                            </span> -->
+                        </a></li>
                     <!--  <ul class="dropdown-menu">
                             <li><a href="<?php echo $base_url ?>/testimonials.php">Testimonials</a></li>
 
