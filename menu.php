@@ -73,16 +73,9 @@
                     <li><a href="<?php echo $base_url ?>/"><img src="<?php echo $base_url ?>/img/home_1.png"></a></li>
 
                     <li><a href="<?php echo $base_url ?>/about.php">About
-                            <!-- <span
-                                class="material-symbols-outlined arrow-dropdown">
-                                arrow_drop_down
-                            </span> -->
-                        </a></li>
-                    <!--  <ul class="dropdown-menu">
-                            <li><a href="<?php echo $base_url ?>/testimonials.php">Testimonials</a></li>
 
-                    </li>
-                </ul> -->
+                        </a></li>
+
 
                     <!--   <li><a href="<?php echo $base_url ?>/heating.php">Heating<span
                                 class="material-symbols-outlined arrow-dropdown">
@@ -138,7 +131,14 @@
 
                     <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
 
-                    <li><a href="<?php echo $base_url ?>/learn-more.php">Learn More</a></li>
+                    <li><a class="dropdown-toggle">Learn More <span class="material-symbols-outlined arrow-dropdown">
+                                arrow_drop_down
+                            </span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?php echo $base_url ?>/powervac-truck.php">PowerVac Truck</a>
+                            </li>
+                        </ul>
+                    </li>
 
                     <li><a href="<?php echo $base_url ?>/contact-us.php">Contact</a>
 
