@@ -68,7 +68,8 @@
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/cooling.php">
                             <div class="icon">
-                                <img src="<?php echo $base_url; ?>/img/Asset 4.png" alt="" class="img-responsive">
+                                <img src="<?php echo $base_url; ?>/img/air duct cleaning.jpg" alt=""
+                                    class="img-responsive">
                             </div>
                             <h4>Air Duct Cleaning<span class="material-symbols-outlined arrow-icon-blue-box">
                                     arrow_right
@@ -82,7 +83,8 @@
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/heating.php">
                             <div class="icon">
-                                <img src="<?php echo $base_url; ?>/img/heating.png" alt="" class="img-responsive">
+                                <img src="<?php echo $base_url; ?>/img/dryer vent cleaning.jfif" alt=""
+                                    class="img-responsive">
                             </div>
                             <h4>Dryer Vent Cleaning<span class="material-symbols-outlined arrow-icon-blue-box">
                                     arrow_right
