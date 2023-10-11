@@ -203,7 +203,7 @@
 
                 <div class="col-sm-12 text-center">
 
-                    <h1>What Our Customers Are Saying</h1>
+                    <h1>Before and After Duct Cleaning </h1>
 
                 </div>
 
