@@ -2087,9 +2087,15 @@ textarea {
   background: #f4f4f4;
 }
 
-#testmonial .item{
+#testmonial .item {
   display: flex;
   justify-content: center;
+}
+
+@media (min-width: 768px) {
+  #testmonial img {
+    width: 50%;
+  }
 }
 
 /* .testmonial h2 {

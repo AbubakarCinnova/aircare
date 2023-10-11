@@ -210,7 +210,7 @@
                 <div id="testmonial" class="owl-carousel">
                     <!--slider list-->
 
-                    <div class="col-sm-12 item  owl-item">
+                    <div class="col-sm-12 item  owl-item ">
                         <img src="<?php echo $base_url; ?>/img/before and after duct cleaning.jpeg" alt="first"
                             width="300">
                     </div>
