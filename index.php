@@ -211,47 +211,24 @@
                     <!--slider list-->
 
                     <div class="col-sm-12 item  owl-item">
-
-                        <p class="light text-center ">
-                        <p class="light text-center ">Wonderful company, great installation and very friendly! Highly
-                            recommend them for anyone heat or ac needs.
-                        </p>
-
-                        <h3 class="text-center">C.B </h3>
-
+                        <img src="<?php echo $base_url; ?>/img/before and after duct cleaning.jpeg" alt="first"
+                            width="300">
+                    </div>
+                    <div class="col-sm-12 item  owl-item">
+                        <img src="<?php echo $base_url; ?>/img/before and after duct cleaning 2.jpeg" alt="second"
+                            width="300">
+                    </div>
+                    <div class="col-sm-12 item  owl-item">
+                        <img src="<?php echo $base_url; ?>/img/before and after duct cleaning 3.jpeg" alt="third"
+                            width="300">
+                    </div>
+                    <div class="col-sm-12 item  owl-item">
+                        <img src="<?php echo $base_url; ?>/img/before and after duct cleaning 4.jpeg" alt="fourth"
+                            width="300">
                     </div>
 
-                    <!--slider list-->
-                    <!--slider list-->
 
-                    <div class="col-sm-12 item  owl-item">
-
-                        <p class="light text-center ">
-                        <p class="light text-center ">Professional and friendly and answered all my questions!!! Can't
-                            thank them enough!!</p>
-
-                        <h3 class="text-center">J.S</h3>
-
-                    </div>
-
-                    <!--slider list-->
-                    <!--slider list-->
-
-                    <div class="col-sm-12 item  owl-item">
-
-                        <p class="light text-center ">
-                        <p class="light text-center ">We are very happy to have recently had a new Lennox furnace and
-                            a/c installed by Jacks Heating and Cooling.
-                        </p>
-
-                        <h3 class="text-center">S.K</h3>
-
-                    </div>
-
-                    <!--slider list-->
-                    <!--slider list-->
-
-                    <div class="col-sm-12 item  owl-item">
+                    <!-- <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
                         <p class="light text-center ">These folks are very personable and professional. They responded
@@ -260,30 +237,9 @@
 
                         <h3 class="text-center">C.T</h3>
 
-                    </div>
+                    </div> -->
 
-                    <div class="col-sm-12 item  owl-item">
 
-                        <p class="light text-center ">
-                        <p class="light text-center ">Very professional company, did a complete install for me .very
-                            happy with the price and their work, thanks again.
-                        </p>
-
-                        <h3 class="text-center">S.C</h3>
-
-                    </div>
-
-                    <div class="col-sm-12 item  owl-item">
-
-                        <p class="light text-center ">
-                        <p class="light text-center ">Can't say enough good about this company. LOVE that they are on
-                            time, and professional.
-
-                        </p>
-
-                        <h3 class="text-center">S.C</h3>
-
-                    </div>
 
                 </div>
 
