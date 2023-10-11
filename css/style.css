@@ -2087,6 +2087,11 @@ textarea {
   background: #f4f4f4;
 }
 
+#testmonial .item{
+  display: flex;
+  justify-content: center;
+}
+
 /* .testmonial h2 {
   font-size: 35px;
   color: black;
