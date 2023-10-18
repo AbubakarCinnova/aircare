@@ -66,7 +66,7 @@
 
                 <div class="col-lg-2 col-sm-6">
                     <div class="text-center blue-boxes">
-                        <a href="<?php echo $base_url; ?>/cooling.php">
+                        <a href="<?php echo $base_url; ?>/">
                             <div class="icon">
                                 <img src="<?php echo $base_url; ?>/img/air duct cleaning.jpg" alt=""
                                     class="img-responsive">
@@ -81,7 +81,7 @@
 
                 <div class="col-lg-2 col-sm-6">
                     <div class="text-center blue-boxes">
-                        <a href="<?php echo $base_url; ?>/heating.php">
+                        <a href="<?php echo $base_url; ?>/">
                             <div class="icon">
                                 <img src="<?php echo $base_url; ?>/img/dryer vent cleaning.jfif" alt=""
                                     class="img-responsive">

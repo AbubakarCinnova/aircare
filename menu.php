@@ -77,34 +77,7 @@
                         </a></li>
 
 
-                    <!--   <li><a href="<?php echo $base_url ?>/heating.php">Heating<span
-                                class="material-symbols-outlined arrow-dropdown">
-                                arrow_drop_down
-                            </span></a>
 
-                        <ul class="dropdown-menu">
-                            <li><a href="<?php echo $base_url ?>/furnaces.php"> Gas Furnaces</a></li>
-                            <li><a href="<?php echo $base_url ?>/boilers.php">Gas Boilers </a></li>
-                            <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
-                            <li><a href="<?php echo $base_url ?>/oil-furnaces.php">Oil Furnaces</a></li>
-                            <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
-                            <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
-
-                        </ul>
-                    </li> -->
-
-                    <!--    <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling<span
-                                class="material-symbols-outlined arrow-dropdown">
-                                arrow_drop_down
-                            </span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="<?php echo $base_url ?>/air-conditioners.php">AC</a></li>
-                            <li><a href="<?php echo $base_url ?>/mini-splits.php">Mini Split</a></li>
-                            <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
-                            <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
-                        </ul>
-
-                    <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li> -->
                     <li><a class="dropdown-toggle">Services<span class="material-symbols-outlined arrow-dropdown">
                                 arrow_drop_down
                             </span></a>
@@ -115,17 +88,7 @@
                         </ul>
                     </li>
 
-                    <!--     <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
 
-                    <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
-                      
-                    </li> -->
-
-
-
-                    <!--     <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
-
-                    </li> -->
 
                     <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li>
 
@@ -137,6 +100,9 @@
                         <ul class="dropdown-menu">
                             <li><a href="<?php echo $base_url ?>/powervac-truck.php">PowerVac Truck</a>
                             </li>
+                            <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning Process</a>
+                            </li>
+
                         </ul>
                     </li>
 
