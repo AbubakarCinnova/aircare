@@ -102,6 +102,8 @@
                             </li>
                             <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning Process</a>
                             </li>
+                            <li><a href="<?php echo $base_url ?>/dryer-vent-cleaning.php">Dryer Vent Cleaning</a>
+                            </li>
 
                         </ul>
                     </li>

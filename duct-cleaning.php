@@ -64,8 +64,6 @@
 
 
 
-
-
                                 <h2>Step 2 - Cutting-Edge Power Activation:</h2>
                                 <p>Next, we initiate our state-of-the-art 16,000 CFM (cubic feet per minute) PowerVac
                                     truck, characterized by its advanced technology. We patiently wait for the HVAC
