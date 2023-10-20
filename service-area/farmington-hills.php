@@ -82,7 +82,8 @@ Farmington Hills with our expert air duct and dryer vent cleaning services. Brea
 
                                 <br>
 
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Schedule your
+                                <a href="<?php echo $base_url ?>/contact-us.php"
+                                    class="btn btn-warning service-btn">Schedule your
                                     air duct cleaning
                                     appointment now!</a>
                                 <br>
@@ -119,7 +120,8 @@ Farmington Hills with our expert air duct and dryer vent cleaning services. Brea
 
                                 <br>
 
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Schedule your
+                                <a href="<?php echo $base_url ?>/contact-us.php"
+                                    class="btn btn-warning service-btn">Schedule your
                                     dryer vent
                                     cleaning appointment now!</a>
                                 <br>

@@ -3206,6 +3206,10 @@ strong {
   .header-phone {
     margin: 0 auto;
   }
+  .service-btn {
+    width: 100%;
+    word-wrap: normal;
+  }
 }
 .arrow-icon-blue-box {
   font-size: 32px;
