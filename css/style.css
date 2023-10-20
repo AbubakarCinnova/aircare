@@ -3208,7 +3208,7 @@ strong {
   }
   .service-btn {
     width: 100%;
-    word-wrap: normal;
+    word-wrap: normal !important;
   }
 }
 .arrow-icon-blue-box {
