@@ -9,14 +9,7 @@
 
     <div id="mainWrapper" style=" background-color:white;">
         <div id="outerWrapper">
-            <div class="container-fluid">
-                <div class="row">
-                    <img src="<?php echo $base_url ?>/img/commercial duct cleaning metro detroit.jpeg" alt="banner "
-                        style="width:100%;">
 
-                    <br><br>
-                </div>
-            </div>
             <div id="wrapper" class="container" style="background-color:white;">
                 <div class="container content-main"
                     style="border-bottom-right-radius: 10px !important; border-bottom-left-radius: 10px !important; margin-bottom: 20px; padding-top: 20px;">
@@ -24,7 +17,10 @@
                         <div class="row">
                             <div class="col-sm-12">
 
+                                <img src="<?php echo $base_url ?>/img/commercial duct cleaning metro detroit.jpeg"
+                                    alt="banner " style="width:100%;">
 
+                                <br><br>
 
                                 <h2>Elevate Your Commercial Space with Superior Air Quality and Efficiency!</h2>
 
