@@ -120,17 +120,17 @@ Rochester with our expert air duct and dryer vent cleaning services. Breathe eas
                                 <p>At Advanced Air Care, we're committed to providing Rochester residents with safe,
                                     efficient, and cost-effective
                                     dryer vent cleaning. Trust us to keep your home and family safe. Contact us today to
-                                    schedule your dryer vent cleaning appointment.
+                                    schedule your dryer vent cleaning appointment.</p>
 
 
 
-                                    <br><br>
+                                <br><br>
 
-                                    <a href="<?php echo $base_url ?>/contact-us.php"
-                                        class="btn btn-warning service-btn">Schedule your
-                                        dryer vent
-                                        cleaning appointment now!</a>
-                                    <br>
+                                <a href="<?php echo $base_url ?>/contact-us.php"
+                                    class="btn btn-warning service-btn">Schedule your
+                                    dryer vent
+                                    cleaning appointment now!</a>
+                                <br>
 
 
 
