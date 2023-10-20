@@ -73,8 +73,7 @@ Farmington Hills with our expert air duct and dryer vent cleaning services. Brea
                                     refreshed. Our professionals eliminate debris, dirt, dust, and mold with the
                                     assistance of our state-of-the-art PowerVac Truck. When you choose Advanced Air
                                     Care, you can expect transparency, integrity, and trustworthiness every step of the
-                                    way. Don't miss out on the benefits of duct cleaning – <strong><a
-                                            href="../air-duct-benefits.php">Contact Us today!</a></strong></p>
+                                    way. </p>
 
 
 
