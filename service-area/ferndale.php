@@ -74,13 +74,11 @@
                                 </ul><br>
 
                                 <p>Advanced Air Care's Ferndale team delivers only top-quality air duct cleaning in
-                                    Ferndale to ensure your indoor
-                                    environment is clean, healthy, and refreshed. Our professionals eliminate debris,
-                                    dirt, dust, and mold with the
-                                    assistance of our state-of-the-art PowerVac Truck. When you choose Advanced Air
-                                    Care, you can expect transparency,
-                                    integrity, and trustworthiness every step of the way.
-                                </p>
+                                    Ferndale to ensure your indoor environment is clean, healthy, and refreshed. Our
+                                    professionals eliminate debris, dirt, dust, and mold with the assistance of our
+                                    state-of-the-art PowerVac Truck. When you choose Advanced Air Care, you can expect
+                                    transparency, integrity, and trustworthiness every step of the way.</p>
+
 
                                 <br>
 
