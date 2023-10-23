@@ -15,10 +15,10 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-                                <!--    <img src="<?php echo $base_url ?>/img/Need_a_new_ac-1 (2) (1).jpg" alt="need ac repair "
+                                <img src="<?php echo $base_url ?>/img/duct-air-banner.jpg" alt="dryer vent banner "
                                     class="img-responsive">
 
-                                <br><br> -->
+                                <br><br>
 
                                 <h2>Protect Your Home and Save on Energy Costs with Dryer Vent Cleaning!</h2>
 
