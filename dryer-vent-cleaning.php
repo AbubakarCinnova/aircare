@@ -16,7 +16,7 @@
                             <div class="col-sm-12">
 
                                 <img src="<?php echo $base_url ?>/img/duct-air-banner.jpg" alt="dryer vent banner "
-                                    class="img-responsive">
+                                    style="width:100%">
 
                                 <br>
 
