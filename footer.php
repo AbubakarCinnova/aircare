@@ -55,8 +55,10 @@
             </div>
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
-                <p><strong>Address:</strong>51620 Milano Dr Ste B <br>
-                    Macomb, MI 48042</p>
+                <p><strong>Address:</strong>51620 Milano Dr
+                    <!-- Ste B <br>
+                    Macomb, MI 48042 -->
+                </p>
                 <p><strong>Local:</strong>(586) 416-1900</p>
                 <p><strong>Toll Free:</strong>(888) 304-3828</p>
                 <p><strong>Fax:</strong>(586) 797-9759</p>
