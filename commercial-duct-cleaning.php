@@ -17,7 +17,7 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-                                <img src="<?php echo $base_url ?>/img/commercial duct cleaning metro detroit.jpeg"
+                                <img src="<?php echo $base_url ?>/img/commercial duct cleaning metro detroit.jpg"
                                     alt="banner " style="width:100%;">
 
                                 <br><br>
