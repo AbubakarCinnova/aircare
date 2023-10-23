@@ -2084,7 +2084,6 @@ textarea {
 .testmonial {
   padding-bottom: 50px;
   padding-top: 30px;
-  background: #f4f4f4;
 }
 
 #testmonial .item {
@@ -2941,6 +2940,7 @@ textarea {
 
 .homepage-video-section {
   padding: 50px 0px;
+  background-color: #f4f4f4;
 }
 
 @media (min-width: 768px) {

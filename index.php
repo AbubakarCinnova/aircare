@@ -141,24 +141,21 @@
             </div>
         </div>
 
-        <section class="full-row make-it-possible">
+        <!--   <section class="full-row make-it-possible">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <!-- <div class="col-sm-3">
-              <script src="//www.toyoursuccess.com/reviews/js:6187:4"></script>
-            </div>
-            <div class="col-sm-9"> -->
+                     
                         <h1 class="review-heading">Why Wait? Get Total Comfort Today!</h1>
                         <p>Honest Estimates. Affordable Prices. Experienced Technicians.</p> <br />
                         <p style="width:100%"><a class="btn btn-warning"
                                 href="<?php echo $base_url ?>/contact-us.php">Contact Our
                                 Experts</a></p>
-                        <!-- </div> -->
+                  
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <section class="full-row homepage-video-section">
