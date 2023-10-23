@@ -4,19 +4,13 @@
         <div class="container">
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
 
-                <!--   <h3>About Us</h3> -->
                 <p><img src="<?php echo $base_url ?>/img/badge-min.png" style="width:160px"></p>
-
-                <!--     <p class="light">At Jack's Heating and Cooling, we aim to exceed client expectations by employing the
-                    best customer service people and holding ourselves to only the highest level of customer care. Our
-                    friendly customer service people will answer all your questions, scheduling service, financing and
-                    guide you through the install and rebate process.</p> -->
+                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" style="width:180px"></p>
 
             </div>
-            <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
-                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" style="width:180px"></p>
-                <!-- <h3>Service Areas</h3> -->
-                <!-- <ul class="footer-list" style="display: flex; flex-wrap: wrap;justify-content:space-between; ">
+            <!--   <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
+                <h3>Service Areas</h3>
+                <ul class="footer-list" style="display: flex; flex-wrap: wrap;justify-content:space-between; ">
                     <div class="item-list-inner">
                         <li><a href="<?php echo $base_url ?>/davison.php">Davison</a></li>
                         <li><a href="<?php echo $base_url ?>/goodrich.php">Goodrich</a></li>
@@ -52,9 +46,9 @@
                         <li><a href="<?php echo $base_url ?>/gagetown.php">Gagetown</a></li>
                         <li><a href="<?php echo $base_url ?>/unionville.php">Unionville</a></li>
                     </div>
-                </ul> -->
-            </div>
-            <div class="col-md-6 col-sm-12 col-xs-12 footer-item">
+                </ul>
+            </div> -->
+            <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
                 <p><strong>Address:</strong>51620 Milano Dr
                     <!-- Ste B <br>
