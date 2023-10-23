@@ -18,7 +18,7 @@
                                 <img src="<?php echo $base_url ?>/img/duct-air-banner.jpg" alt="dryer vent banner "
                                     class="img-responsive">
 
-                                <br><br>
+                                <br>
 
                                 <h2>Protect Your Home and Save on Energy Costs with Dryer Vent Cleaning!</h2>
 
