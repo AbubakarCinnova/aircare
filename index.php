@@ -164,31 +164,57 @@
         <section class="full-row homepage-video-section">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6">
-                        <h2>Jack's Heating and Cooling: 76 Years of Trusted HVAC Service</h2>
-                        <p>Jack's Heating and Cooling - your trusted family-owned heating and cooling contractor in
-                            Michigan's Thumb area for over 76 years. Our long-standing presence and dedication have made
-                            us the gold standard in our industry. </p>
+                    <div class="col-md-12">
+                        <h2>Experience Fresh, Healthy Air with Advanced Air Care's Leading Air Duct Cleaning Services
+                        </h2>
 
-                        <p>We take pride in building lasting relationships with our clients, some of whom have been
-                            with us for decades. Our mission is to build the same strong bond with you, providing
-                            exceptional customer service that goes above and beyond. </p>
 
-                        <p> At Jack's Heating and Cooling, your satisfaction is paramount. Whether you need furnace
-                            repair, quality installation of Lennox systems, heat pumps, air conditioners, or regular
-                            maintenance, we are committed to exceeding your expectations. Join our community of
-                            satisfied customers and experience top-notch service that stands the test of time. </p>
+
+                        <p>Tired of battling itchy eyes, relentless coughing, and never-ending sneezing fits every time
+                            your heating or cooling system starts up? Is your home or business plagued by dusty, grimy
+                            vents, or the constant threat of mold? When it comes to transforming your indoor
+                            environment,
+                            turn to Advanced Air Care, your trusted source for top-tier air duct cleaning services.</p>
+
+
+
+                        <p>With a solid track record of over 20 years in the business, Advanced Air Care, based in
+                            Macomb
+                            Township, has been on a mission to rejuvenate your living and working spaces. Our expert
+                            team
+                            doesn't cut corners; instead, we meticulously cleanse every facet of your HVAC system, from
+                            the
+                            air ducts and blower to the fans and registers. The result? A space that's not only
+                            noticeably
+                            cleaner but also undeniably healthier for you and your loved ones.</p>
+
+
+
+                        <p>Serving both residential and commercial clients in the bustling metro Detroit area, we
+                            specialize in Air Duct Cleaning and Dryer Vent Cleaning. Our services are designed to do
+                            more
+                            than just enhance your HVAC system's efficiency; they elevate the quality of the air you
+                            breathe. What's even more reassuring is our unwavering commitment to safety, with a keen
+                            focus
+                            on drastically reducing fire hazards associated with neglected clothes dryer vents.</p>
+
+
+
+                        <p>Don't delay – make the smart choice today by selecting Advanced Air Care's expert Air Duct
+                            Cleaning services. Experience the sheer delight of breathing easier and enjoy the rewards of
+                            a
+                            cleaner, safer, and more efficient living or working space!</p>
 
 
 
                     </div>
-                    <div class="col-md-6 iframe-wrap">
+                    <!--   <div class="col-md-6 iframe-wrap">
                         <iframe width="520" height="330" src="https://www.youtube.com/embed/j0nOyk_GXIY"
                             title="Jacks Capabilities" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe>
 
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
