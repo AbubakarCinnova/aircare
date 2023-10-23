@@ -29,7 +29,7 @@
                                                     Clair Shores</a></li>
                                             <li><a href="<?php echo $base_url ?>/service-area/sterling-heights.php">Sterling
                                                     Heights</a></li>
-                                            <li><a href="<?php echo $base_url ?>/service-area/utica.php">Utica</a></li>
+                                            <li><a href="">Utica</a></li>
                                             <li><a href="<?php echo $base_url ?>/service-area/warren.php">Warren</a>
                                             </li>
 
@@ -41,7 +41,7 @@
                                             </li>
                                             <li><a href="<?php echo $base_url ?>/service-area/macomb.php">Macomb
                                                     Township</a> </li>
-                                            <li><a href="<?php echo $base_url ?>/service-area/chesterfield.php">Chesterfield
+                                            <li><a href="">Chesterfield
                                                     Township</a> </li>
                                         </ul>
                                     </div>
@@ -55,8 +55,7 @@
                                             </li>
                                             <li><a href="<?php echo $base_url ?>/service-area/bloomfield-hills.php">Bloomfield
                                                     Hills</a></li>
-                                            <li><a
-                                                    href="<?php echo $base_url ?>/service-area/clarkston.php">Clarkston</a>
+                                            <li><a href="">Clarkston</a>
                                             </li>
 
                                             <li><a href="<?php echo $base_url ?>/service-area/farmington-hills.php">Farmington
@@ -78,7 +77,7 @@
 
                                             <li><a href="<?php echo $base_url ?>/service-area/troy.php">Troy</a></li>
 
-                                            <li><a href="<?php echo $base_url ?>/service-area/lake-orion.php">Lake
+                                            <li><a href="">Lake
                                                     Orion</a></li>
 
                                             <li> <a href="<?php echo $base_url ?>/service-area/waterford-township.php">Waterford
@@ -100,7 +99,7 @@
                                         <strong>Parts of Wayne County, MI Including: </strong>
                                         <ul>
 
-                                            <li><a href="<?php echo $base_url ?>/service-area/grosse-pointe-farms.php">Grosse
+                                            <li><a href="">Grosse
                                                     Pointe Farms</a> </li>
                                             <li><a href="<?php echo $base_url ?>/service-area/grosse-pointe.php">Grosse
                                                     Pointe</a> </li>
