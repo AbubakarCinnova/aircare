@@ -1,5 +1,10 @@
 <?php include_once('../header.php') ?>
+<title>Independence Township, MI Air Duct and Dryer Vent Cleaning Services</title>
 
+
+
+<meta name="description"
+    content=" Elevate indoor air quality and safety in Independence Township with our expert air duct and dryer vent cleaning services. Breathe easier and protect your home. Contact us today!">
 
 <?php include_once('../menu.php') ?>
 </head>
