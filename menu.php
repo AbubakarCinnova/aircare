@@ -25,7 +25,7 @@
                         src="<?php echo $base_url ?>/img/aacs-logo.png" width="230" /></a> </div>
 
             <div class="col-md-3  header-btn-wrap">
-                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning" style="">Request Service</a>
+                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning" style="">Get Quote</a>
             </div>
         </div>
     </div>
