@@ -55,7 +55,7 @@
                                             </li>
                                             <li><a href="<?php echo $base_url ?>/service-area/bloomfield-hills.php">Bloomfield
                                                     Hills</a></li>
-                                            <li><a>Clarkston</a>
+                                            <li>Clarkston
                                             </li>
 
                                             <li><a href="<?php echo $base_url ?>/service-area/farmington-hills.php">Farmington
