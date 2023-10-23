@@ -85,7 +85,8 @@
                                     vacuum truck. It's not just
                                     a truck; it's a symbol of our dedication to delivering the cleanest indoor air. When
                                     you choose us, you choose a
-                                    level of excellence that's unmatched. <strong><a href="/powervac-truck.php">Discover
+                                    level of excellence that's unmatched. <strong><a
+                                            href="<?php echo $base_url ?>/powervac-truck.php">Discover
                                             More</a></strong></p>
 
                                 <h2>The 9-Step Precision Process</h2>
@@ -95,7 +96,8 @@
                                     falls short in comparison. Our PowerVac truck, with its unparalleled suction power,
                                     enhances every phase of our
                                     process, ensuring an unprecedented level of effectiveness that transforms your air
-                                    quality. <strong><a href="/duct-cleaning-process.php">Discover
+                                    quality. <strong><a
+                                            href="<?php echo $base_url ?>/duct-cleaning-process.php">Discover
                                             More</a></strong></p>
 
                                 <p>At Advanced Air Care, we're not just cleaning air ducts; we're pioneering a new
