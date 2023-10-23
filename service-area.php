@@ -29,7 +29,7 @@
                                                     Clair Shores</a></li>
                                             <li><a href="<?php echo $base_url ?>/service-area/sterling-heights.php">Sterling
                                                     Heights</a></li>
-                                            <li><a>Utica</a></li>
+                                            <li>Utica</li>
                                             <li><a href="<?php echo $base_url ?>/service-area/warren.php">Warren</a>
                                             </li>
 
@@ -41,8 +41,8 @@
                                             </li>
                                             <li><a href="<?php echo $base_url ?>/service-area/macomb.php">Macomb
                                                     Township</a> </li>
-                                            <li><a>Chesterfield
-                                                    Township</a> </li>
+                                            <li>Chesterfield
+                                                Township </li>
                                         </ul>
                                     </div>
 
@@ -77,8 +77,8 @@
 
                                             <li><a href="<?php echo $base_url ?>/service-area/troy.php">Troy</a></li>
 
-                                            <li><a>Lake
-                                                    Orion</a></li>
+                                            <li>Lake
+                                                Orion</li>
 
                                             <li> <a href="<?php echo $base_url ?>/service-area/waterford-township.php">Waterford
                                                     Township</a></li>
@@ -99,8 +99,8 @@
                                         <strong>Parts of Wayne County, MI Including: </strong>
                                         <ul>
 
-                                            <li><a>Grosse
-                                                    Pointe Farms</a> </li>
+                                            <li>Grosse
+                                                Pointe Farms </li>
                                             <li><a href="<?php echo $base_url ?>/service-area/grosse-pointe.php">Grosse
                                                     Pointe</a> </li>
 
