@@ -76,14 +76,7 @@
                         </a></li>
 
 
-                    <li><a class="dropdown-toggle">Services <span class="material-symbols-outlined arrow-dropdown">
-                                arrow_drop_down
-                            </span></a>
-                        <ul class="dropdown-menu">
 
-
-                        </ul>
-                    </li>
                     <li><a class="dropdown-toggle" href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning <span
                                 class="material-symbols-outlined arrow-dropdown">
                                 arrow_drop_down
@@ -98,6 +91,13 @@
                     </li>
 
                     <li><a href="<?php echo $base_url ?>/dryer-vent-cleaning.php">Dryer Vent Cleaning</a>
+                    </li>
+
+                    <li><a class="dropdown-toggle">Services <span class="material-symbols-outlined arrow-dropdown">
+                                arrow_drop_down
+                            </span></a>
+                        <ul class="dropdown-menu">
+                        </ul>
                     </li>
 
 
