@@ -88,7 +88,8 @@ Madison Heights with our expert air duct and dryer vent cleaning services. Breat
 
                                 <br>
 
-                                <a href="#" class="btn btn-warning service-btn">Schedule your air duct cleaning
+                                <a href="<?php echo $base_url ?>/contact-us.php"
+                                    class="btn btn-warning service-btn">Schedule your air duct cleaning
                                     appointment now!</a>
                                 <br>
 
@@ -131,7 +132,8 @@ Madison Heights with our expert air duct and dryer vent cleaning services. Breat
 
                                 <br>
 
-                                <a href="#" class="btn btn-warning service-btn">Schedule your dryer vent cleaning
+                                <a href="<?php echo $base_url ?>/contact-us.php"
+                                    class="btn btn-warning service-btn">Schedule your dryer vent cleaning
                                     appointment now!</a>
                                 <br>
 

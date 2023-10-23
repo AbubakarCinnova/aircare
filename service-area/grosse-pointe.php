@@ -86,7 +86,8 @@
 
                                 <br>
 
-                                <a href="#" class="btn btn-warning service-btn">Schedule your air duct cleaning
+                                <a href="<?php echo $base_url ?>/contact-us.php"
+                                    class="btn btn-warning service-btn">Schedule your air duct cleaning
                                     appointment now!</a>
                                 <br>
 
@@ -128,7 +129,8 @@
 
                                 <br>
 
-                                <a href="#" class="btn btn-warning service-btn">Schedule your dryer vent cleaning
+                                <a href="<?php echo $base_url ?>/contact-us.php"
+                                    class="btn btn-warning service-btn">Schedule your dryer vent cleaning
                                     appointment now!</a>
                                 <br>
 
