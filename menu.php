@@ -8,7 +8,7 @@
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/aacs-logo.png" width="220" /></a> </div>
 
-            <div class="col-md-3 ">
+            <div class="col-md-2 ">
                 <div>
                     <h3 style="font-weight:600;">Call for Appointment</h3>
                     <div class="header-phone">
@@ -21,16 +21,20 @@
 
             </div>
 
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <a
                     href="https://www.google.com/search?q=advanced+air+care+mi&sca_esv=575955530&rlz=1C1ONGR_enUS1070US1073&ei=_Qw3ZfOLM7Ke5NoPxpOYsAk&ved=0ahUKEwiz_vCPtI2CAxUyD1kFHcYJBpYQ4dUDCBA&uact=5&oq=advanced+air+care+mi&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGFkdmFuY2VkIGFpciBjYXJlIG1pMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYqwJIrgxQ9AZY8AlwAXgAkAEAmAGUAaABzAKqAQMxLjK4AQPIAQD4AQHCAggQABiABBiwA8ICCRAAGAcYHhiwA8ICFBAuGIAEGMcBGK8BGMgDGLAD2AEBwgIIEAAYigUYkQLCAg4QLhiKBRjHARivARiRAsICCxAuGK8BGMcBGIAEwgIFEAAYgATCAgsQLhiABBjHARivAcICCBAAGIoFGIYDwgIGEAAYFhge4gMEGAEgQYgGAZAGDLoGBAgBGAg&sclient=gws-wiz-serp#lrd=0x8824e0ef31855555:0xf884fb6c81fc53a2,3,,,,">
-                    <img src="<?php echo $base_url ?>/img/google 3.png" alt="google" width="200px"></a>
+                    <img src="<?php echo $base_url ?>/img/google 3.png" alt="google" width="150"></a>
             </div>
 
-            <div class="col-md-3 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
+            <div class="col-md-4 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/aacs-logo.png" width="230" /></a> </div>
 
-            <div class="col-md-3  header-btn-wrap">
+            <div class="col-md-2">
+                <img src="<?php echo $base_url ?>/img/footer-logo.png" style="width:180px">
+            </div>
+
+            <div class="col-md-2  header-btn-wrap">
                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning" style="">Get Quote</a>
             </div>
         </div>

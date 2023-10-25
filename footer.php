@@ -5,7 +5,7 @@
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
 
                 <p><img src="<?php echo $base_url ?>/img/badge-min.png" style="width:160px"></p>
-                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" style="width:180px"></p>
+
 
             </div>
             <!--   <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
