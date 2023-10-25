@@ -4,7 +4,7 @@
         <div class="container">
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
 
-                <p><img src="<?php echo $base_url ?>/img/AdobeStock_302251655.jpeg" style="width:160px"></p>
+                <p><img src="<?php echo $base_url ?>/img/AdobeStock_302251655.jpeg" style="width:220px"></p>
 
 
             </div>
