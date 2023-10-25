@@ -12,8 +12,7 @@
 
                 <div class="item active">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/banner-dryer-vent-cleaning.jpg" alt="first slide"
-                            width="100%">
+                            src="<?php echo $base_url; ?>/img/duct cleaning 2.JPG" alt="first slide" width="100%">
                     </a>
                 </div>
             </div>
