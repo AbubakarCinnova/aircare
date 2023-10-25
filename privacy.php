@@ -293,7 +293,7 @@
                                                 remove
                                                 such information from our records.</p>
 
-                                            <h3></h3> For EEA Users
+                                            <h3>For EEA Users</h3>
 
                                             <p>If you are an individual in the European Economic Area (EEA), we comply
                                                 with
