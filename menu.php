@@ -35,7 +35,7 @@
             </div>
 
             <div class="col-md-2  header-btn-wrap">
-                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning" style="">Get Quote</a>
+                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning" style="">Get Free Quote </a>
             </div>
         </div>
     </div>
