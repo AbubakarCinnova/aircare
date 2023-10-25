@@ -21,7 +21,7 @@
 
             </div>
 
-            <div class="col-md-2">
+            <div class="col-md-2 text-center">
                 <a
                     href="https://www.google.com/search?q=advanced+air+care+mi&sca_esv=575955530&rlz=1C1ONGR_enUS1070US1073&ei=_Qw3ZfOLM7Ke5NoPxpOYsAk&ved=0ahUKEwiz_vCPtI2CAxUyD1kFHcYJBpYQ4dUDCBA&uact=5&oq=advanced+air+care+mi&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGFkdmFuY2VkIGFpciBjYXJlIG1pMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYqwJIrgxQ9AZY8AlwAXgAkAEAmAGUAaABzAKqAQMxLjK4AQPIAQD4AQHCAggQABiABBiwA8ICCRAAGAcYHhiwA8ICFBAuGIAEGMcBGK8BGMgDGLAD2AEBwgIIEAAYigUYkQLCAg4QLhiKBRjHARivARiRAsICCxAuGK8BGMcBGIAEwgIFEAAYgATCAgsQLhiABBjHARivAcICCBAAGIoFGIYDwgIGEAAYFhge4gMEGAEgQYgGAZAGDLoGBAgBGAg&sclient=gws-wiz-serp#lrd=0x8824e0ef31855555:0xf884fb6c81fc53a2,3,,,,">
                     <img src="<?php echo $base_url ?>/img/google 3.png" alt="google" width="150"></a>
@@ -30,7 +30,7 @@
             <div class="col-md-4 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/aacs-logo.png" width="230" /></a> </div>
 
-            <div class="col-md-2">
+            <div class="col-md-2 text-center">
                 <img src="<?php echo $base_url ?>/img/footer-logo.png" style="width:180px">
             </div>
 
