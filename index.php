@@ -161,7 +161,7 @@
         <section class="full-row homepage-video-section">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-8">
                         <h2>Experience Fresh, Healthy Air with Advanced Air Care's Leading Air Duct Cleaning Services
                         </h2>
 
@@ -205,13 +205,13 @@
 
 
                     </div>
-                    <div class="col-md-6 iframe-wrap">
+                    <div class="col-md-4 iframe-wrap">
                         <!-- <iframe width="520" height="330" src="https://www.youtube.com/embed/j0nOyk_GXIY"
                             title="Jacks Capabilities" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe> -->
                         <img src="<?php echo $base_url ?>/img/advanced air care shelby township mi.jpg" alt="home-img"
-                            style="width:80%">
+                            style="width:100%">
                     </div>
                 </div>
             </div>
