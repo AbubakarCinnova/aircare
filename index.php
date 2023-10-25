@@ -205,13 +205,14 @@
 
 
                     </div>
-                    <!--   <div class="col-md-6 iframe-wrap">
-                        <iframe width="520" height="330" src="https://www.youtube.com/embed/j0nOyk_GXIY"
+                    <div class="col-md-6 iframe-wrap">
+                        <!-- <iframe width="520" height="330" src="https://www.youtube.com/embed/j0nOyk_GXIY"
                             title="Jacks Capabilities" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen></iframe>
-
-                    </div> -->
+                            allowfullscreen></iframe> -->
+                        <img src="<?php echo $base_url ?>/img/advanced air care shelby township mi.jpg" alt="home-img"
+                            style="width:80%">
+                    </div>
                 </div>
             </div>
         </section>
