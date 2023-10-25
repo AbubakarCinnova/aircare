@@ -63,8 +63,8 @@
 
 
                 <p><a href="<?php echo $base_url ?>/privacy.php">Terms of Service and Privacy Policy</a></p>
-                <p><a href="https://www.facebook.com/Advanced-Air-Care-128298120542928/"
-                        class="facebook-icon current">facebook </a></p>
+                <!--  <p><a href="https://www.facebook.com/Advanced-Air-Care-128298120542928/"
+                        class="facebook-icon current">facebook </a></p> -->
 
             </div>
 
