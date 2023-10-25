@@ -12,12 +12,12 @@
 
                 <div class="item active">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/duct cleaning 2.JPG" alt="first slide" width="100%">
+                            src="<?php echo $base_url; ?>/img/duct cleaning 2.png" alt="first slide" width="100%">
                     </a>
                 </div>
                 <div class="item ">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/10OFFDRYER1 (1).jpeg" alt="first slide" width="100%">
+                            src="<?php echo $base_url; ?>/img/-10OFFDRYER1 (1).png" alt="first slide" width="100%">
                     </a>
                 </div>
             </div>
