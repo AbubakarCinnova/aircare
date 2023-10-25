@@ -67,7 +67,7 @@
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url; ?>/duct-cleaning.php">
                             <div class="icon">
-                                <img src="<?php echo $base_url; ?>/img/air duct cleaning.jpg" alt=""
+                                <img src="<?php echo $base_url; ?>/img/duct cleaning macomb (1).jpg" alt=""
                                     class="img-responsive">
                             </div>
                             <h4>Air Duct Cleaning<span class="material-symbols-outlined arrow-icon-blue-box">
