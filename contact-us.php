@@ -272,7 +272,7 @@
         </div>
         <div class="col-md-6">
             <br><br>
-            <p><img src="<?php echo $base_url ?>/img/Advanced Air Care Macomb Mi.jfif" style=""></p>
+            <p><img src="<?php echo $base_url ?>/img/Advanced Air Care Macomb Mi.jfif" width="300"></p>
         </div>
         <div class="col-sm-8 col-xs-12 margin-bottom-sm">
             <br>
